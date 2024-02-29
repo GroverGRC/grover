@@ -1,0 +1,79 @@
+#cuadrado{
+    width: 800px;
+    border-radius: 100px;
+    border-style: solid;
+    height: 700px;
+    background-color: rgb(156, 205, 224);
+}
+#caja1{
+    margin: auto;
+    border-radius: 100px;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(8, 227, 243);
+}
+#caja2{
+    margin: auto;
+    border-radius: 100px;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(8, 227, 243);
+}
+#caja3{
+    margin-left: 200px;
+    margin-top: -130px;
+    margin-bottom: 120px;
+    border-left: 2px;
+    border-style: solid;
+    width: 100px;
+    height: 5px;
+    background-color: rgb(8, 227, 243);
+}
+#caja32{
+    margin-left: 495px;
+    margin-top: -130px;
+    margin-bottom: 118px;
+    border-left: 2px;
+    border-style: solid;
+    width: 100px;
+    height: 5px;
+    background-color: rgb(8, 227, 243);
+}
+#caja4{
+    margin: auto;
+    border-radius: 150px;
+    border-style: solid;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(8, 227, 243);
+}
+#ojo1{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 100px;
+    border-style: solid;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
+#ojo2{
+    margin-left: 90px;
+    margin-top: 20px;
+    border-radius: 100px;
+    border-style: solid;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
+#boca{
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    width: 60px;
+    height: 10px;
+    background-color: black;
+}
